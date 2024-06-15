@@ -5,6 +5,7 @@ web3 version above 3.0
 to download
 
 npm install web3@0.20.6 
+
 npm install -g truffle@5.0.2                        
 
 
