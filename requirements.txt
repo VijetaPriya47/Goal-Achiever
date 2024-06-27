@@ -1,3 +1,4 @@
 npm install web3@0.20.6 
 
 npm install -g truffle@5.0.2   
+npm install ganache
