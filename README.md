@@ -33,6 +33,9 @@ For Sample Video, check this:
 - Internet Connection
 
 
+## Features to be added 🛠️
+--FireBase Integration
+
 ---
 ![image](https://github.com/VijetaPriya47/Goal-Achiever/assets/67923889/5890c12b-2994-4a2e-9e3a-e5beff945eb3)
 
