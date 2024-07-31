@@ -24,7 +24,7 @@ For Sample Video, check this:
 ## How to Use 🤖
 
 1. Install the required dependencies using `pip install -r requirements.txt`.
-2. Run the script using `npm run dev.py`.
+2. Run the script using `npm run dev`.
 
            
 
