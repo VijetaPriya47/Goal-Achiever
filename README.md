@@ -5,6 +5,9 @@ Do you want a money reward system to motivate you for it?
 
 Welcome to Goal-Achiever. This is a small part of my portfolio website. It helps in Setting goals through Smart Contracts in Ethereum. And You can deposit money when you complete a goal. This way you can record how many goals you achieved and will boost your self-confidence when seeing your progress. At the same time, it will help you save money when depositing a certain amount when you achieve a goal.
 
+
+By implementing blockchain in a to-do list, we're showcasing an emphasis on **data security, transparency, and immutability**. The use case can be ensuring that task records cannot be tampered with, providing a secure and verifiable audit trail of completed tasks or progress over time. This could be useful in collaborative environments where trust in the accuracy and integrity of task management is critical, especially in teams or decentralized projects.
+
 For Sample Video, check this: 
 ![image](https://github.com/VijetaPriya47/Goal-Achiever/assets/67923889/73be44c9-0515-4ba1-acfa-e19c8db88d06)
 
